@@ -1,0 +1,7 @@
+.cont1{
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+    background-color: palevioletred;
+}
